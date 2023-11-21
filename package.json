@@ -1,0 +1,23 @@
+{
+  "name": "twilight-amber-backend",
+  "version": "1.0.0",
+  "description": "Backend project for twilight amber store",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coltonPBrown/twilight-amber-backend.git"
+  },
+  "author": "coltonPBrown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coltonPBrown/twilight-amber-backend/issues"
+  },
+  "homepage": "https://github.com/coltonPBrown/twilight-amber-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
